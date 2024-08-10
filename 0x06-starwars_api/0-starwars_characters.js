@@ -1,4 +1,4 @@
-#i!/usr/bin/node
+#!/usr/bin/node
 
 // Import the 'request' library
 const request = require('request');
