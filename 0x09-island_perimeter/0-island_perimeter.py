@@ -8,7 +8,7 @@ def island_perimeter(grid):
     Args:
         grid (list): A list of list of integers representing an island.
     Returns:
-        The perimeter of the island defined in grid.
+        The perimeter of the island is defined in grid.
     """
     width = len(grid[0])
     height = len(grid)
